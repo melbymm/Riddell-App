@@ -1,0 +1,19 @@
+[
+    {
+     "ranking": 0,
+     "name": "Example",
+     "age": 0,
+     "weight": 0,
+     "gender": "Male",
+     "height": 0,
+     "ufc_wins":0,
+     "ufc_loses": 0,
+     "ufc_draws": 0,
+     "ufc_no_contests": 0,
+     "mma_wins": 0,
+     "mma_loses": 0,
+     "mma_draws": 0,
+     "mma_no_contests": 0,
+     "id": 0
+    }
+]
